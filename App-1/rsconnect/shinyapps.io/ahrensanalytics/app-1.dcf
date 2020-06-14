@@ -1,0 +1,10 @@
+name: app-1
+title:
+username:
+account: ahrensanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2380314
+bundleId: 3209004
+url: https://ahrensanalytics.shinyapps.io/app-1/
+when: 1590877064.49587
